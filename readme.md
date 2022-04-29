@@ -4,6 +4,10 @@
 
 В этом работе мы научимся создавать собственную  среду разработки React Native. 
 
+<img src="https://user-images.githubusercontent.com/90133237/165904765-23c43a3c-9159-4c56-a4c3-bb9e38c4e770.png" width="100" />
+
+
+
 ***Задания для выполнения***
 
 - Следуя руководству https://www.reactnative.express/environment/quick_start установите среду разработки React Native.
