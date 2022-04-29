@@ -20,7 +20,7 @@
 
 - Добавьте функциональные элементы на экран, обновите приложение.
 
-
+<img src="https://user-images.githubusercontent.com/90133237/165977583-7f0bad6e-9fe9-4557-a83b-a70e6b853e20.gif" width="300" />
 
 
 
