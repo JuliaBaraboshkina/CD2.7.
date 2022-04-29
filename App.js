@@ -1,9 +1,8 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image,Pressable,Alert} from 'react-native';
 
 export default function App() {
   function press(){
-    Alert.alert("Уведомлени", "Хорошего дня!")
+    Alert.alert("Уведомление", "Хорошего дня!")
   }
   return (
     <View style={styles.container}>
